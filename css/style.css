@@ -1,0 +1,124 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+    margin: auto;
+    border: 1px  solid #0000ff
+}
+section{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+.azul{
+   color: #0000ff;
+}
+.rojo{
+    color: #ff0000;
+}
+#punto_cuatro h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+#green{
+    text-decoration:underline;
+    color: rgb(9, 256, 9);
+}
+
+#red{
+    color: rgb(255, 0, 0);
+}
+
+#black{
+    text-decoration:underline overline;
+}
+
+#big{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#blue{
+    color: rgb(0, 0, 255);
+    font-weight: bolder;
+}
+
+#red{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+}
+
+
+#big{
+    font-size: 30px;  
+    font-weight: bolder;
+}
+
+#e_1{
+    color: #ffff00;
+}
+
+#e_2{
+    color: #800080;
+}
+
+
+
+
+
+.punto_7_nav{
+    background-color: pink;
+}
+.punto_7_nav ul{
+    display: inline-flex;
+}
+.punto_7_nav li{
+    padding: 12px;
+    list-style: none;
+}
+.punto_7_nav li:hover{
+  background-color: #0000ff;
+
+}
+.punto_7_nav a{
+    color: #ffff;
+    font-size: 25px;
+}
+
+
+
+
+
+.p_8{
+    background-color: #ffff00;
+    border-collapse: collapse;
+    border-bottom: dotted #ff0000;
+}
+
+.p_8 th{
+    color:#ff0000;
+}
+.p_8 td,tr{
+    border: 1px dotted #000000;
+
+}
+#e,#p{
+    font-size: 30px;
+}
+
+
+#footer_name{
+    font-size: 15px;
+    text-align: center; 
+}
